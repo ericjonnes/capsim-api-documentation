@@ -1,4 +1,5 @@
-# CAPSIM API Documentation
+# CAPSIM API Documentation Group B
+Eric Jones, Jackson Deal, Phillip Bell, Ahmad
 
 API documentation for the CAPSIM simulation platform.
 
